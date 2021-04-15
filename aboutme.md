@@ -1,16 +1,46 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello and welcome! I’m a Canadian software engineer with __10 years of experience__ designing, developing, and maintaining custom software solutions for manufacturing customers.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Resume
+---
 
-What else do you need?
+# Matthew Randell
+Software Engineer
+randellma@gmail.com | mattrandell.com
 
-### My story
+## Currently
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Software Architect and Technical Lead at Brock Solutions
+
+## Work
+`2018 - Present` 
+__Technology Lead__ - _Brock Solutions_
+
+`2015 - 2018` 
+__Project Technical Lead__ - _Brock Solutions_
+
+`2011 - 2015` 
+__Software Developer__ - _Brock Solutions_
+
+## Education
+`2007 - 2012` 
+__Software Engineering__ - _McMaster University_
+* 4 year engineering degree including a 12 month co op at IBM
+
+## Skills
+`Languages` 
+Java, Groovy, Javascript, C#, SQL
+
+`Frameworks` 
+Java EE, Spring Boot, .NET, Thingworx, FactoryTalk Production Centre
+
+`Technology` 
+Git, Docker, Vagrant, MS SQL, MySQL, Postgres
+
+`Roles` 
+Architecture, Design, Dev ops, Continuous Integration/Delivery, Requirements Gathering, Development, Documentation
