@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # url is the the website domain URL without a trailing slash
-# url: "https://mattrandell.com"
+url: "https://mattrandell.com"
 
 # baseurl should be an empty string
-# baseurl: ""
+baseurl: ""
 
 # Name of website
 title: Matt Randell
