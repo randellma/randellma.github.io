@@ -8,13 +8,13 @@ thumbnail-img: /assets/img/mcmaster-student-card_small.png
 # Used to think that I had to know something from its fundamentals to know something at all.
 tags: [software engineering, ]
 ---
-I am obsessed with software engineering - I love everything about it. From the satisfying way an elegant design comes together to the pride in seeing what you’ve help build running in production improving peoples lives. No other profession could give me such challenge, satisfaction, and endless possibilities to continue to learn.
+I am obsessed with software engineering - I love everything about it. From the satisfying way an elegant design comes together to the pride in seeing what you’ve help build solve a problem. No other profession could give me such challenge, satisfaction, and endless possibilities to continue to learn.
 
-And I almost entirely missed out on it all! In the 10th grade I had to choose between a computer hardware course and a computer software course - I chose the hardware course. It focused on PC components and administration mostly. But there was one section where we did some Visual Basic forms programming that made me realize what I was missing.
+And I almost entirely missed out on it all! In the 10th grade I had to choose between a computer hardware course and a computer software course - I chose the hardware course. It focused on PC components and administration mostly. But there was small scripting assignment that showed me what I was missing.
 
-At this point I was in the 12th grade, though. And I had missed the 10th and 11th grade software prerequeisites. But as luck would have it, I had a gap in my schedule that year and I got permission to take the software course to fill my schedule. I thought “hey, it’s okay if I completely fail because I don’t need this course to graduate anyway”.
+At this point I was in the 12th grade and I had missed the 10th and 11th grade software prerequisites. But I got special permission to take the 12th grade software course. I didn't need it to graduate so I though “hey, it’s okay if I completely fail”.
 
-Even still, I was still terrified that I’d be completely behind everyone else. So I was determined to learn as much as I could on my own before the course started. This was my first experience ever learning something because I wanted to learn it and not because I had a test the next day. And when the course finally started I was shocked to see that, if anything, I was ahead of where the 11th grade courses left off. It turned out to be favourite high school course, and I knew that I was going to apply for either software engineering or computer science programs in university.
+Even still, I was terrified of being behind. I was determined to learn as much as I could on my own and when the course finally started I was shocked to see that, if anything, I was ahead of where the 11th grade courses left off. It turned out to be my favourite high school course, and I knew that I was going to apply for either software engineering or computer science programs in university.
 
 <p align="center">
 <img src="/assets/img/mcmaster-student-card_small.png" alt="McMaster Student Card" width="300" style="text-align: center;"/>

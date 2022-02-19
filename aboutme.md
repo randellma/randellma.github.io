@@ -8,4 +8,4 @@ Hello and welcome! I’m a Canadian software engineer with __10 years of experie
 
 ## Resume
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://www.mattrandell.com/resume.pdf" width="100%" height="500" />
+<iframe src="https://drive.google.com/file/d/1kIXfBZ9apCq8S_k740sb0An5PuXidZGw/preview" width="100%" height="500" allow="autoplay"></iframe>
