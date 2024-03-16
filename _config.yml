@@ -21,6 +21,7 @@ author: Matthew Randell
 
 navbar-links:
   Home: "/"
+  Docs: "docs"
   About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
